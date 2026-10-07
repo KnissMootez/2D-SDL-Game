@@ -46,5 +46,5 @@ A small 2D game written in **C++** with **SDL2**, built from scratch, with no ga
 
 ## Credits & disclaimer
 
-- The project skeleton is based on the **BirchEngine** starter template from Carl Birch's *"How to make a game in C++ & SDL2"* tutorial series.
+- The project skeleton follows the C++/SDL2 game tutorial series by **Ethnos Watchers** ([YouTube playlist](https://www.youtube.com/watch?v=1KD4Ae0tX0g&list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_)). The buttons, the menu and the class structure built on top of it are my own work.
 - **This is a non-commercial learning project.** The Smurfs (© Peyo / IMPS) and Azrael are the property of their respective owners. No rights are claimed, and no money is made from this project. If you are a rights holder and want the assets removed, please open an issue.
