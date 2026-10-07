@@ -1,8 +1,8 @@
-# Smurfs Running: a 2D game in C++ and SDL2
+# 2D SDL Game: C++ and SDL2
 
 A small 2D game written in **C++** with **SDL2**, built from scratch, with no game engine, to practice object-oriented design and the core of a game loop.
 
-<!-- screenshot: docs/screenshot.png -->
+<!-- screenshots coming soon -->
 
 ## What it does
 
