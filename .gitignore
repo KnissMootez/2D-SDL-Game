@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+bin/
+x64/
+Win32/
+Debug/
+Release/
+*.vcxproj.user
+*.ipch
+*.pdb
+*.obj
+
+# SDL runtime DLLs: download from the official SDL releases
+*.dll
